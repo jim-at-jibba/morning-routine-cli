@@ -5,7 +5,7 @@ of questions and then creates a journal entry in [Dayone](http://dayoneapp.com/)
 data to the journal entry. 
 
 This currently uses [IFTTT](https://ifttt.com) but is limited to allowing only 3 questions as this
-is all the maker channel allows. I may look to changing it over to Zapier.
+is all the maker channel allows. ~~I may look to changing it over to Zapier.~~ No support for dayone in Zapier.
 
 For this to work for you, you must have an ifttt account, Dayone and an 
 IFTTT receipe set up. I am gonna write a blog post detailing the whole process
